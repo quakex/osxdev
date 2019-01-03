@@ -27,9 +27,9 @@
                 </textField>
             </subviews>
         </customView>
-        <customObject id="hRI-j9-lT8" customClass="LabelCollectionViewItem" customModule="day03" customModuleProvider="target">
+        <customObject id="udn-Vz-mY0" customClass="LabelCollectionViewItem" customModule="day03" customModuleProvider="target">
             <connections>
-                <outlet property="view" destination="Hz6-mo-xeY" id="6dg-ns-tfo"/>
+                <outlet property="view" destination="Hz6-mo-xeY" id="NoO-jC-dDE"/>
             </connections>
         </customObject>
     </objects>
